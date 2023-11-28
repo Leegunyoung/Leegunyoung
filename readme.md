@@ -8,7 +8,7 @@
 <div style="display:flex; flex-direction:row;">
     <a href="mailto:hdn1015@naver.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Naver&logoColor=white">  </a>
-    <a href="https://open.kakao.com/o/sGFzzbsf">
+    <a href=https://open.kakao.com/o/sGFzzbsf](https://open.kakao.com/o/sdcq1WUf>
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk">
     </a>
     <a href="https://www.instagram.com/lee_gun0617/">
@@ -172,13 +172,15 @@
     </a>
 </div>
 <br>
-
+<div></div>
 <h3 align="center"><b> Organizations </b></h3>
 <p align="center">
     <img src="https://img.shields.io/badge/sosratchachaHACKATHON-Organization-brightgreen">
     <img src="https://img.shields.io/badge/VeritasKau-Organization-brightgreen">
     <img src="https://img.shields.io/badge/KoreaHanZoom-Organization-brightgreen">
 </p>
+</div>
+
 ##  🌌 상장 관리  🌌
 <div>
    <p style="font-size: 14px; margin-top: 10px;">
