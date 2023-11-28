@@ -167,7 +167,7 @@
 
 ## 💻 개발 로그 💻
 <div>
-    <a href="https://velog.io/@bi-sz">
+    <a href="https://blog.naver.com/hdn1015">
         <img src="https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white">
     </a>
 </div>
